@@ -3,8 +3,8 @@ objetivo do projeto: medir o aumento de gas no ambiente, e alertar com som, prin
 
 ## tecnologia
 
--C++
-Arduino
+_C++
+_Arduino
 
 ## circuito
 

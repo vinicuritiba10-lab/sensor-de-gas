@@ -1,10 +1,10 @@
 # sensor-de-gas
 objetivo do projeto: medir o aumento de gas no ambiente, e alertar com som, principalmente feito para minha vó.
 
-# tecnologia
+## tecnologia
 
-C++
+-C++
 Arduino
 
-# circuito
+## circuito
 

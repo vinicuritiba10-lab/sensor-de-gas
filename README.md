@@ -8,5 +8,5 @@ objetivo do projeto: medir o aumento de gas no ambiente, e alertar com som, prin
 
 ## circuito
 
-
+<img src="./assets/imagem.png" alt="Descrição" width="100%" height="auto">.
 

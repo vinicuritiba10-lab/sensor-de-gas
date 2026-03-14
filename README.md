@@ -16,6 +16,8 @@ objetivo do projeto: medir o aumento de gas no ambiente, e alertar com som, prin
 
 <img src="img/WhatsApp Image 2026-03-14 at 15.16.27.jpeg" alt="Descrição" width="100%" height="auto">
 
+Para garantir a precisão, o código utiliza a variável limiteAlerta. Durante os testes em ambiente limpo, observou-se uma leitura base de 465. O limite de disparo foi definido em 500 para evitar alarmes falsos causados por ruídos elétricos ou variações naturais de umidade, mantendo uma margem de segurança.
+
 ## GLP (gás liquefeito de pretróleo)
 
 O gás liquefeito de petróleo (GLP), também chamado de gás de petróleo liquefeito (GPL) e conhecimento coloquialmente como gás de cozinha no Brasil, é uma mistura de gases de hidrocarbonetos utilizado como combustível em aplicações de aquecimento (como em fogões) e veículos.
@@ -29,3 +31,9 @@ O GLP (Gás Liquefeito de Petróleo) não é uma única molécula, mas uma mistu
 https://pt.wikipedia.org/wiki/G%C3%A1s_liquefeito_de_petr%C3%B3leo
 
 ## Propano e Butano
+
+### Propano
+<img src="img/WhatsApp Image 2026-03-14 at 15.16.27.jpeg" alt="Descrição" width="100%" height="auto">
+
+### Butano
+<img src="img/WhatsApp Image 2026-03-14 at 15.16.27.jpeg" alt="Descrição" width="100%" height="auto">

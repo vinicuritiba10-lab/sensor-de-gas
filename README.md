@@ -36,4 +36,4 @@ https://pt.wikipedia.org/wiki/G%C3%A1s_liquefeito_de_petr%C3%B3leo
 <img src="img/Propane-3D-balls-B.png" alt="Descrição" width="100%" height="auto">
 
 ### Butano
-<img src="img/WhatsApp Image 2026-03-14 at 15.16.27.jpeg" alt="Descrição" width="100%" height="auto">
+<img src="img/Butane-3D-balls.png" alt="Descrição" width="100%" height="auto">
